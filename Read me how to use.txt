@@ -1,0 +1,3 @@
+index.html?email=
+
+You need to upload the php anywhere first and  Put URL of PHP file  Line number (1393)
